@@ -1,4 +1,4 @@
-# zaHome - LED Strip Controller
+# LED Strip Controller
 
 This script was wrote for an ESP8266 chip in order to control the LED SMD5050 strips. The way it works is by recieving UDP packets, interpret them and write the output to the pins. 
 
